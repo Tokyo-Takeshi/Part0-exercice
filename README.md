@@ -12,3 +12,11 @@ sequenceDiagram
    serveur-->>chrome: main.js file
     chrome-->>serveur: recharge GET https://studies.cs.helsinki.fi/exampleapp/data.json
    serveur-->>chrome: data.json file
+
+# Part0-exercice-0.5
+Le systéme de réponse reste le même sauf pour la balise de la requête au serveur qui est différente comparé au 1er exercice dans la balise Html
+le fichier JSON ne propose plus de recharger l'intégralité des fichiers lorsque l'utilisateur effectue une reqête dans le formulaire. ( voir exercie 0.6 )
+
+![mermaid-diagram-2024-06-20-162933](https://github.com/Tokyo-Takeshi/Part0-exercice-0.4/assets/173046968/e19aca09-4f21-48e3-8531-1add37c85482)
+
+# Part0-exercice-0.6
