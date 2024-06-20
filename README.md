@@ -5,6 +5,8 @@ Le navigateur Chrome fait alors une nouvelle requête GET au serveur à la page 
 Le serveur va donc envoyer le document HTML correspondant à cette nouvelle page note, puis le navigateur va faire plusieurs requêtes GET supplémentaires pour récupérer les ressources nécessaires à l'affichage de la page, comme le fichier CSS main.css, le fichier JavaScript main.js et le fichier de données JSON data.json.
 Le serveur répond à chacune de ces requêtes en envoyant les fichiers correspondants au navigateur. 
 Soit une sorte de ping pong entre les 2 pour avoir l'ajout de la note sur le navigateur.
+
+
 ![exo0 4](https://github.com/Tokyo-Takeshi/Part0-exercice/assets/173046968/d62679c3-b8dd-45f2-9585-554177da3464)
 
 
